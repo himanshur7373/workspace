@@ -7,7 +7,7 @@ welcome! I love my mon and dad
 </h1>
 
 <?php
-echo "Hello World! Ashi!!!!! i am shubham";
+echo "Hello World! Ashi!!!!! i am student";
 ?>
 
 </body>
